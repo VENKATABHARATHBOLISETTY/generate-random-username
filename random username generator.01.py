@@ -1,6 +1,5 @@
 import random
 import string
-# Predefined lists of adjectives and nouns
 adjectives = ["Cool", "Happy", "Fast", "Fierce", "Brave", "Clever", "Swift", "Mighty", "Sly", "Jolly"]
 nouns = ["Dragon", "Tiger", "Falcon", "Warrior", "Wizard", "Knight", "Ninja", "Shadow", "Panther", "Ghost"]
 def generate_username(include_number=False, include_special=False):
